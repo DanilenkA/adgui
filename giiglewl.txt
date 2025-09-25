@@ -1,0 +1,9 @@
+s.youtube.com
+video-stats.l.google.com
+app-measurement.com
+www.googletagmanager.com
+android.clients.google.com
+www.googleapis.com
+oauthaccountmanager.googleapis.com
+backup.googleapis.com
+clients3.google.com
