@@ -7,3 +7,4 @@ www.googleapis.com
 oauthaccountmanager.googleapis.com
 backup.googleapis.com
 clients3.google.com
+footprints-pa.googleapis.com
