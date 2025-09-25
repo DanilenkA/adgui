@@ -8,3 +8,4 @@ oauthaccountmanager.googleapis.com
 backup.googleapis.com
 clients3.google.com
 footprints-pa.googleapis.com
+people-pa.clients6.google.com
