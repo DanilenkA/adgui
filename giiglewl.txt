@@ -1,4 +1,7 @@
-s.youtube.com
+
+log.strm.yandex.ru
+tracking.ott.yandex.net
+strm.yandex.ru/]
 video-stats.l.google.com
 app-measurement.com
 www.googletagmanager.com
